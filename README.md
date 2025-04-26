@@ -33,4 +33,4 @@ This C++ program allows users to customize the HELP University logo by changing 
 The sample output is displayed in the `logo_customization.pdf` document, showing how the program behaves before and after customization.
 
 ## Author 
-Created by Cheah Wan Xin
+Cheah Wan Xin
